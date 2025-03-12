@@ -1,0 +1,2 @@
+C:\Users\Orange\source\repos\NetCoreMVC\FirstDay\firstday.client\obj\Debug\firstday.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\FirstDay\firstday.client\obj\Debug\firstday.client.esproj.CoreCompileInputs.cache
