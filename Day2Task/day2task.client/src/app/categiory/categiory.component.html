@@ -1,0 +1,29 @@
+
+<section>
+  <!-- Container -->
+  <div class="mx-auto w-full max-w-7xl px-5 py-16 md:px-10 md:py-20">
+    <!-- Title -->
+    <h2 class="text-center text-3xl font-bold md:text-5xl">
+      Our Team Members
+    </h2>
+    <p class="mx-auto mb-8 mt-4 text-center text-sm text-gray-500 sm:text-base md:mb-12 lg:mb-16">
+      Lorem ipsum dolor sit amet elit ut aliquam
+    </p>
+    <!-- Content -->
+    <div *ngFor="let catagory of categorylist">
+      <div class="mx-auto grid max-w-5xl justify-items-center gap-5 sm:grid-cols-2 md:grid-cols-3 md:gap-4 lg:gap-6">
+        <!-- Item -->
+        <div class="flex max-w-sm flex-col items-center gap-4 rounded-md border border-solid border-gray-300 px-8 py-6 md:max-w-full md:items-start">
+          <img src="{{catagory.img}}" alt="{{catagory.img}}" class=" mb-4 inline-block h-56 w-full object-cover lg:h-72" />
+          <p class="font-bold">{{catagory.name}}</p>
+          <a routerLink="/product/{{catagory.id}}" class="inline-block rounded-xl bg-black px-8 py-4 text-center font-semibold text-white [box-shadow:rgb(19,_83,_254)_6px_6px]">See Product</a>
+
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+

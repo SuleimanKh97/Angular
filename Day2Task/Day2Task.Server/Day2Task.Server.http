@@ -1,0 +1,6 @@
+@Day2Task.Server_HostAddress = http://localhost:5140
+
+GET {{Day2Task.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

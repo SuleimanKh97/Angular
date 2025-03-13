@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51945",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\Day2Task.Server\\..\\day2task.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

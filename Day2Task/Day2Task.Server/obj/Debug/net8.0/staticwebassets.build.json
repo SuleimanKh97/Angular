@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "XpWdYl35OjMoj9LjvDjkHZCZndbQM8LQ7iTswgSykeo=",
+  "Source": "Day2Task.Server",
+  "BasePath": "_content/Day2Task.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\day2task.client\\day2task.client.esproj",
+      "Version": 2,
+      "Source": "day2task.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

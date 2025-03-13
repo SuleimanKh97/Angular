@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Day2Task.Server.props" />
+</Project>
