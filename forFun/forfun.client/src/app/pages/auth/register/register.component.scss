@@ -1,0 +1,142 @@
+.auth-section {
+  padding: 60px 0;
+  background-color: var(--light-bg);
+  min-height: calc(100vh - 70px); // Adjust based on header height
+  display: flex;
+  align-items: center;
+}
+
+.auth-card {
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.auth-header {
+  margin-bottom: 30px;
+
+  .auth-logo {
+    width: 120px;
+    margin-bottom: 20px;
+  }
+
+  .auth-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+  }
+
+  .auth-subtitle {
+    color: #777;
+    margin-bottom: 0;
+  }
+}
+
+.auth-form {
+  .form-label {
+    font-weight: 600;
+    color: var(--primary-color);
+  }
+
+  .input-group {
+    .input-group-text {
+      background-color: var(--light-bg);
+      border-color: var(--border-color);
+      color: #777;
+    }
+
+    .form-control {
+      border-color: var(--border-color);
+
+      &:focus {
+        box-shadow: none;
+        border-color: var(--secondary-color);
+      }
+    }
+  }
+
+  .account-type-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 0;
+
+    .account-type {
+      margin: 0;
+
+      .form-check-input {
+        display: none;
+
+        &:checked + .form-check-label {
+          background-color: var(--secondary-color);
+          border-color: var(--secondary-color);
+          color: var(--white);
+
+          i {
+            color: var(--white);
+          }
+        }
+      }
+
+      .form-check-label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 15px 30px;
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+        cursor: pointer;
+        transition: all 0.3s ease;
+
+        i {
+          font-size: 24px;
+          color: var(--secondary-color);
+          margin-bottom: 8px;
+        }
+
+        span {
+          font-weight: 600;
+        }
+
+        &:hover {
+          border-color: var(--secondary-color);
+          box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+      }
+    }
+  }
+
+  .form-check-label {
+    a {
+      color: var(--secondary-color);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .btn-primary {
+    height: 48px;
+    font-weight: 600;
+  }
+}
+
+.auth-footer {
+  p {
+    color: #777;
+
+    a {
+      color: var(--secondary-color);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

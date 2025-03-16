@@ -1,0 +1,74 @@
+/* Import Bootstrap */
+@import 'bootstrap/dist/css/bootstrap.rtl.min.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+/* Variables */
+:root {
+  --nike-black: #111111;
+  --nike-light-gray: #f5f5f5;
+  --nike-dark-gray: #757575;
+  --nike-white: #ffffff;
+  --nike-red: #c00707;
+}
+
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  direction: rtl;
+  text-align: right;
+}
+
+/* Import Arabic font */
+@font-face {
+  font-family: 'NeueFrutigerArabic';
+  src: url('/assets/fonts/NeueFrutigerArabic-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeueFrutigerArabic';
+  src: url('/assets/fonts/NeueFrutigerArabic-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, span, a, button {
+  font-family: 'NeueFrutigerArabic', 'Arial', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: var(--nike-black);
+}
+
+.main-content {
+  min-height: calc(100vh - 60px - 200px); /* Adjust based on header and footer heights */
+}
+
+/* Utility classes */
+.text-rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.nike-btn {
+  background-color: var(--nike-black);
+  color: var(--nike-white);
+  border: none;
+  border-radius: 20px;
+  padding: 8px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.nike-btn:hover {
+  background-color: #333;
+}

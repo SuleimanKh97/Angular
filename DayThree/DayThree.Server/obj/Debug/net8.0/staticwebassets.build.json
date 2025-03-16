@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "2P2Z2l2oQii/rg+v3aSL2c/SPPVxBQXqEf4MXwd2+Go=",
+  "Source": "DayThree.Server",
+  "BasePath": "_content/DayThree.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ENG.K\\source\\repos\\DayThree\\daythree.client\\daythree.client.esproj",
+      "Version": 2,
+      "Source": "daythree.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

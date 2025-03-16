@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58212",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\forFun\\forFun.Server\\..\\forfun.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

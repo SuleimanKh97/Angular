@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "XpWdYl35OjMoj9LjvDjkHZCZndbQM8LQ7iTswgSykeo=",
+  "Hash": "WsKS6bqnS1CzS1XJlxAGqUP+MiQnzjVgsuffAoopxqg=",
   "Source": "Day2Task.Server",
   "BasePath": "_content/Day2Task.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\day2task.client\\day2task.client.esproj",
+      "Identity": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\day2task.client.esproj",
       "Version": 2,
       "Source": "day2task.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

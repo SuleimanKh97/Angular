@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj": {}
+    "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj": {
+    "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj",
+        "projectUniqueName": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj",
         "projectName": "Day2Task.Server",
-        "projectPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj",
+        "projectPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\Day2Task.Server\\Day2Task.Server.csproj",
         "packagesPath": "C:\\Users\\ENG.K\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Day2Task\\Day2Task.Server\\obj\\",
+        "outputPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\Day2Task.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

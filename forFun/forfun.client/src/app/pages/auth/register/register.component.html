@@ -1,0 +1,148 @@
+<section class="auth-section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="auth-card">
+          <div class="auth-header text-center">
+            <img src="assets/images/logo/logo.svg" alt="سوق الحلال" class="auth-logo">
+            <h1 class="auth-title">إنشاء حساب جديد</h1>
+            <p class="auth-subtitle">انضم إلى سوق الحلال واستمتع بتجربة تسوق آمنة ومتوافقة مع الشريعة الإسلامية</p>
+          </div>
+
+          <form [formGroup]="registerForm" (ngSubmit)="onSubmit()" class="auth-form">
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label for="firstName" class="form-label">الاسم الأول</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-user"></i></span>
+                  <input type="text" id="firstName" formControlName="firstName" class="form-control" placeholder="الاسم الأول">
+                </div>
+                <div *ngIf="registerForm.get('firstName')?.touched && registerForm.get('firstName')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('firstName')?.errors?.['required']">الاسم الأول مطلوب</small>
+                </div>
+              </div>
+
+              <div class="col-md-6 mb-3">
+                <label for="lastName" class="form-label">الاسم الأخير</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-user"></i></span>
+                  <input type="text" id="lastName" formControlName="lastName" class="form-control" placeholder="الاسم الأخير">
+                </div>
+                <div *ngIf="registerForm.get('lastName')?.touched && registerForm.get('lastName')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('lastName')?.errors?.['required']">الاسم الأخير مطلوب</small>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label for="email" class="form-label">البريد الإلكتروني</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                  <input type="email" id="email" formControlName="email" class="form-control" placeholder="البريد الإلكتروني">
+                </div>
+                <div *ngIf="registerForm.get('email')?.touched && registerForm.get('email')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('email')?.errors?.['required']">البريد الإلكتروني مطلوب</small>
+                  <small *ngIf="registerForm.get('email')?.errors?.['email']">يرجى إدخال بريد إلكتروني صحيح</small>
+                </div>
+              </div>
+
+              <div class="col-md-6 mb-3">
+                <label for="phone" class="form-label">رقم الهاتف</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                  <input type="tel" id="phone" formControlName="phone" class="form-control" placeholder="رقم الهاتف">
+                </div>
+                <div *ngIf="registerForm.get('phone')?.touched && registerForm.get('phone')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('phone')?.errors?.['required']">رقم الهاتف مطلوب</small>
+                  <small *ngIf="registerForm.get('phone')?.errors?.['pattern']">يرجى إدخال رقم هاتف صحيح</small>
+                </div>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label for="password" class="form-label">كلمة المرور</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                  <input type="password" id="password" formControlName="password" class="form-control" placeholder="كلمة المرور">
+                </div>
+                <div *ngIf="registerForm.get('password')?.touched && registerForm.get('password')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('password')?.errors?.['required']">كلمة المرور مطلوبة</small>
+                  <small *ngIf="registerForm.get('password')?.errors?.['minlength']">يجب أن تتكون كلمة المرور من 6 أحرف على الأقل</small>
+                </div>
+              </div>
+
+              <div class="col-md-6 mb-3">
+                <label for="confirmPassword" class="form-label">تأكيد كلمة المرور</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                  <input type="password" id="confirmPassword" formControlName="confirmPassword" class="form-control" placeholder="تأكيد كلمة المرور">
+                </div>
+                <div *ngIf="registerForm.get('confirmPassword')?.touched && registerForm.get('confirmPassword')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('confirmPassword')?.errors?.['required']">تأكيد كلمة المرور مطلوب</small>
+                  <small *ngIf="registerForm.get('confirmPassword')?.errors?.['passwordMismatch']">كلمة المرور غير متطابقة</small>
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-4">
+              <label class="form-label">نوع الحساب</label>
+              <div class="account-type-wrapper">
+                <div class="form-check form-check-inline account-type">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="accountType"
+                    id="accountTypeBuyer"
+                    value="buyer"
+                    formControlName="accountType"
+                  >
+                  <label class="form-check-label" for="accountTypeBuyer">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span>مشتري</span>
+                  </label>
+                </div>
+                <div class="form-check form-check-inline account-type">
+                  <input
+                    class="form-check-input"
+                    type="radio"
+                    name="accountType"
+                    id="accountTypeSeller"
+                    value="seller"
+                    formControlName="accountType"
+                  >
+                  <label class="form-check-label" for="accountTypeSeller">
+                    <i class="fas fa-store"></i>
+                    <span>بائع</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <div class="mb-4">
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="agreeTerms" formControlName="agreeTerms">
+                <label class="form-check-label" for="agreeTerms">
+                  أوافق على <a routerLink="/terms" target="_blank">الشروط والأحكام</a> و <a routerLink="/privacy" target="_blank">سياسة الخصوصية</a>
+                </label>
+                <div *ngIf="registerForm.get('agreeTerms')?.touched && registerForm.get('agreeTerms')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="registerForm.get('agreeTerms')?.errors?.['required']">يجب الموافقة على الشروط والأحكام</small>
+                </div>
+              </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg w-100" [disabled]="isSubmitting">
+              <span *ngIf="isSubmitting" class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+              إنشاء حساب
+            </button>
+          </form>
+
+          <div class="auth-footer text-center mt-4">
+            <p>لديك حساب بالفعل؟ <a routerLink="/login" class="fw-bold">تسجيل الدخول</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

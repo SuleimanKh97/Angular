@@ -1,0 +1,131 @@
+<div class="faq-page">
+  <!-- Page Title Section -->
+  <section class="page-title">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="title">الأسئلة الشائعة</h1>
+          <p class="subtitle">إجابات على الأسئلة المتكررة حول سوق الحلال</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Content Section -->
+  <section class="faq-content">
+    <div class="container">
+      <!-- FAQ Search Box -->
+      <div class="row mb-5">
+        <div class="col-lg-8 mx-auto">
+          <div class="faq-search">
+            <h2 class="search-title">هل لديك سؤال آخر؟</h2>
+            <p class="search-subtitle">ابحث في قائمة الأسئلة الشائعة أو اتصل بفريق الدعم</p>
+            <div class="search-box">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="ابحث عن سؤال...">
+                <button class="btn btn-primary"><i class="fas fa-search"></i></button>
+              </div>
+            </div>
+            <div class="search-help">
+              <p>لم تجد إجابة على سؤالك؟ <a routerLink="/contact" class="contact-link">تواصل معنا</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ Categories -->
+      <div class="row">
+        <div class="col-12">
+          <div class="faq-categories">
+            <ul class="nav nav-pills justify-content-center" id="faqTabs">
+              <li class="nav-item" *ngFor="let category of categories">
+                <button
+                  class="nav-link"
+                  [class.active]="selectedCategory === category"
+                  (click)="setCategory(category)">
+                  {{ category }}
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ Items -->
+      <div class="row mt-5">
+        <div class="col-lg-10 mx-auto">
+          <div class="faq-list">
+            <h3 class="category-title">{{ selectedCategory }}</h3>
+
+            <div class="accordion" id="faqAccordion">
+              <div class="accordion-item" *ngFor="let faq of filteredFaqs; let i = index">
+                <h2 class="accordion-header">
+                  <button
+                    class="accordion-button"
+                    [class.collapsed]="i !== 0"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    [attr.data-bs-target]="'#faqItem' + i"
+                    [attr.aria-expanded]="i === 0 ? 'true' : 'false'">
+                    {{ faq.question }}
+                  </button>
+                </h2>
+                <div
+                  [id]="'faqItem' + i"
+                  class="accordion-collapse collapse"
+                  [class.show]="i === 0"
+                  data-bs-parent="#faqAccordion">
+                  <div class="accordion-body">
+                    {{ faq.answer }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Contact Support -->
+      <div class="row mt-5">
+        <div class="col-12 text-center">
+          <div class="faq-support">
+            <h3>هل لا تزال بحاجة إلى مساعدة؟</h3>
+            <p>فريق دعم العملاء لدينا متاح للإجابة على جميع استفساراتك.</p>
+            <div class="support-channels">
+              <div class="row justify-content-center">
+                <div class="col-md-4">
+                  <div class="support-card">
+                    <div class="support-icon">
+                      <i class="fas fa-envelope"></i>
+                    </div>
+                    <h4>البريد الإلكتروني</h4>
+                    <p>راسلنا على support@halalmarket.com</p>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="support-card">
+                    <div class="support-icon">
+                      <i class="fas fa-phone"></i>
+                    </div>
+                    <h4>الهاتف</h4>
+                    <p>اتصل بنا على +966 12 345 6789</p>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="support-card">
+                    <div class="support-icon">
+                      <i class="fas fa-comments"></i>
+                    </div>
+                    <h4>الدردشة الحية</h4>
+                    <p>متاحة من الأحد إلى الخميس (9 ص - 5 م)</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <a routerLink="/contact" class="btn btn-primary btn-lg mt-4">تواصل معنا</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

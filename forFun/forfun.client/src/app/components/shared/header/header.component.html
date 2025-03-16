@@ -1,0 +1,105 @@
+<!-- Header Component -->
+<header class="site-header">
+  <div class="top-header bg-primary">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <ul class="top-links">
+            <li><a routerLink="/about" class="text-white"><i class="fas fa-info-circle"></i> من نحن</a></li>
+            <li><a routerLink="/contact" class="text-white"><i class="fas fa-phone"></i> اتصل بنا</a></li>
+            <li><a routerLink="/faq" class="text-white"><i class="fas fa-question-circle"></i> الأسئلة الشائعة</a></li>
+          </ul>
+        </div>
+        <div class="col-md-6 text-end">
+          <ul class="top-links">
+            <li><a routerLink="/login" class="text-white"><i class="fas fa-user"></i> تسجيل الدخول</a></li>
+            <li><a routerLink="/register" class="text-white"><i class="fas fa-user-plus"></i> التسجيل</a></li>
+            <li class="dropdown language-selector">
+              <a href="#" class="dropdown-toggle text-white" data-bs-toggle="dropdown">
+                <i class="fas fa-globe"></i> العربية
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">English</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-header">
+    <div class="container">
+      <div class="row align-items-center py-3">
+        <div class="col-md-2">
+          <a routerLink="/" class="logo">
+            <img src="assets/images/logo/logo.svg" alt="سوق الحلال" class="img-fluid">
+          </a>
+        </div>
+        <div class="col-md-7">
+          <div class="search-container">
+            <form class="search-form">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="ابحث عن منتجات، خدمات، مزارع...">
+                <select class="form-select category-select">
+                  <option selected>جميع الفئات</option>
+                  <option>عقارات</option>
+                  <option>سيارات</option>
+                  <option>مواشي</option>
+                  <option>مزارع</option>
+                  <option>إلكترونيات</option>
+                </select>
+                <button class="btn btn-primary search-btn" type="button">
+                  <i class="fas fa-search"></i> بحث
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-3 text-end">
+          <div class="header-buttons">
+            <a href="#" class="btn btn-outline-secondary add-listing-btn">
+              <i class="fas fa-plus-circle"></i> إضافة إعلان
+            </a>
+            <a href="#" class="btn btn-secondary wishlist-btn">
+              <i class="fas fa-heart"></i>
+            </a>
+            <a href="#" class="btn btn-secondary notifications-btn">
+              <i class="fas fa-bell"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <nav class="category-nav">
+    <div class="container">
+      <ul class="category-menu">
+        <li class="category-item"><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}"><i class="fas fa-home"></i> الرئيسية</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-building"></i> عقارات</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-car"></i> سيارات</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-tractor"></i> مزارع</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-horse"></i> مواشي</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-mobile-alt"></i> أجهزة إلكترونية</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-laptop"></i> حاسوب ولابتوب</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-couch"></i> أثاث منزلي</a></li>
+        <li class="category-item"><a href="#"><i class="fas fa-gavel"></i> مزادات</a></li>
+        <li class="category-item dropdown">
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown">
+            <i class="fas fa-ellipsis-h"></i> المزيد
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#"><i class="fas fa-utensils"></i> طعام حلال</a></li>
+            <li><a class="dropdown-item" href="#"><i class="fas fa-pray"></i> منتجات إسلامية</a></li>
+            <li><a class="dropdown-item" href="#"><i class="fas fa-briefcase"></i> وظائف</a></li>
+            <li><a class="dropdown-item" href="#"><i class="fas fa-tools"></i> خدمات</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" routerLink="/terms"><i class="fas fa-file-contract"></i> الشروط والأحكام</a></li>
+            <li><a class="dropdown-item" routerLink="/privacy"><i class="fas fa-user-shield"></i> سياسة الخصوصية</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>

@@ -1,1 +1,2 @@
 C:\Users\ENG.K\Desktop\learning\Day2Task\day2task.client\obj\Debug\day2task.client.esproj.CoreCompileInputs.cache
+C:\Users\ENG.K\Desktop\learning\Angular\Day2Task\day2task.client\obj\Debug\day2task.client.esproj.CoreCompileInputs.cache

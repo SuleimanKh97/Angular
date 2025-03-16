@@ -1,0 +1,255 @@
+// Footer styles
+.site-footer {
+  background-color: var(--primary-color);
+  color: rgba(255, 255, 255, 0.8);
+  margin-top: auto; // Push footer to bottom
+}
+
+// Footer widgets section
+.footer-widgets {
+  padding: 60px 0 30px;
+
+  .widget-title {
+    color: var(--white);
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    position: relative;
+    padding-bottom: 10px;
+
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      right: 0;
+      width: 40px;
+      height: 2px;
+      background-color: var(--secondary-color);
+    }
+  }
+
+  .footer-widget {
+    margin-bottom: 30px;
+
+    p {
+      margin-bottom: 20px;
+      line-height: 1.7;
+    }
+
+    .social-links {
+      display: flex;
+
+      .social-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        background-color: rgba(255, 255, 255, 0.1);
+        color: var(--white);
+        margin-left: 10px;
+        transition: all 0.3s ease;
+
+        &:hover {
+          background-color: var(--secondary-color);
+          transform: translateY(-3px);
+        }
+      }
+    }
+
+    .footer-links {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        margin-bottom: 10px;
+
+        a {
+          color: rgba(255, 255, 255, 0.8);
+          text-decoration: none;
+          transition: all 0.3s ease;
+
+          i {
+            margin-left: 5px;
+            font-size: 12px;
+          }
+
+          &:hover {
+            color: var(--white);
+            padding-right: 5px;
+          }
+        }
+      }
+    }
+
+    .contact-info {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      li {
+        margin-bottom: 15px;
+        display: flex;
+        align-items: flex-start;
+
+        i {
+          margin-left: 10px;
+          color: var(--secondary-color);
+          font-size: 16px;
+          margin-top: 3px;
+        }
+      }
+    }
+  }
+}
+
+// App download section
+.app-download-section {
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 30px 0;
+
+  h4 {
+    color: var(--white);
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+
+  .app-buttons {
+    display: flex;
+    justify-content: flex-end;
+
+    .app-btn {
+      display: inline-flex;
+      align-items: center;
+      padding: 8px 15px;
+      background-color: rgba(255, 255, 255, 0.1);
+      border-radius: 5px;
+      color: var(--white);
+      text-decoration: none;
+      margin-right: 10px;
+      transition: all 0.3s ease;
+
+      i {
+        font-size: 24px;
+        margin-left: 10px;
+      }
+
+      span {
+        text-align: right;
+
+        small {
+          display: block;
+          font-size: 11px;
+          opacity: 0.7;
+        }
+      }
+
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.2);
+      }
+    }
+  }
+}
+
+// Copyright bar
+.copyright-bar {
+  padding: 20px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+
+  .copyright-text {
+    margin-bottom: 0;
+  }
+
+  .footer-bottom-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+
+    li {
+      margin-right: 20px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      a {
+        color: rgba(255, 255, 255, 0.8);
+        text-decoration: none;
+        font-size: 14px;
+        transition: color 0.3s ease;
+
+        &:hover {
+          color: var(--white);
+        }
+      }
+    }
+  }
+}
+
+// Payment methods
+.payment-methods {
+  padding: 20px 0;
+  background-color: #222;
+  text-align: center;
+
+  p {
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .payment-icons {
+    i {
+      font-size: 24px;
+      margin: 0 5px;
+      color: rgba(255, 255, 255, 0.9);
+    }
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .footer-widgets {
+    padding: 40px 0 20px;
+  }
+
+  .footer-widget {
+    text-align: center;
+
+    .widget-title:after {
+      right: 50%;
+      transform: translateX(50%);
+    }
+
+    .social-links {
+      justify-content: center;
+    }
+  }
+
+  .app-download-section {
+    text-align: center;
+
+    .app-buttons {
+      justify-content: center;
+      margin-top: 20px;
+    }
+  }
+
+  .copyright-bar {
+    .copyright-text {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    .footer-bottom-links {
+      justify-content: center;
+    }
+  }
+}

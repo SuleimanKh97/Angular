@@ -1,0 +1,7 @@
+// Layout styles
+main {
+  min-height: 100vh;
+  padding-top: 70px;  // To account for fixed header
+  display: flex;
+  flex-direction: column;
+}

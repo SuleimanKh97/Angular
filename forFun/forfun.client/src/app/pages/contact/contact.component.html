@@ -1,0 +1,262 @@
+<div class="contact-page">
+  <!-- Page Title Section -->
+  <section class="page-title">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="title">تواصل معنا</h1>
+          <p class="subtitle">نحن هنا للإجابة على استفساراتك ومساعدتك في أي وقت</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Info Section -->
+  <section class="contact-info">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="info-card">
+            <div class="info-icon">
+              <i class="fas fa-map-marker-alt"></i>
+            </div>
+            <h3>العنوان</h3>
+            <p>{{ contactInfo.address }}</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="info-card">
+            <div class="info-icon">
+              <i class="fas fa-envelope"></i>
+            </div>
+            <h3>البريد الإلكتروني</h3>
+            <p>{{ contactInfo.email }}</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="info-card">
+            <div class="info-icon">
+              <i class="fas fa-phone-alt"></i>
+            </div>
+            <h3>الهاتف</h3>
+            <p>{{ contactInfo.phone }}</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="info-card">
+            <div class="info-icon">
+              <i class="fas fa-clock"></i>
+            </div>
+            <h3>ساعات العمل</h3>
+            <p>{{ contactInfo.workHours }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Form Section -->
+  <section class="contact-form-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <div class="form-wrapper">
+            <h2 class="form-title">أرسل رسالة</h2>
+            <p class="form-subtitle">يمكنك التواصل معنا عبر ملء النموذج التالي، وسيقوم فريقنا بالرد عليك في أقرب وقت ممكن.</p>
+
+            <div *ngIf="isSubmitted" class="alert alert-success">
+              تم إرسال رسالتك بنجاح! سنقوم بالتواصل معك في أقرب وقت ممكن.
+            </div>
+
+            <form [formGroup]="contactForm" (ngSubmit)="onSubmit()" *ngIf="!isSubmitted">
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <label for="name" class="form-label">الاسم الكامل *</label>
+                  <input
+                    type="text"
+                    id="name"
+                    class="form-control"
+                    placeholder="أدخل اسمك الكامل"
+                    formControlName="name"
+                  >
+                  <div *ngIf="contactForm.get('name')?.touched && contactForm.get('name')?.invalid" class="text-danger mt-1">
+                    <small *ngIf="contactForm.get('name')?.errors?.['required']">الاسم مطلوب</small>
+                  </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <label for="email" class="form-label">البريد الإلكتروني *</label>
+                  <input
+                    type="email"
+                    id="email"
+                    class="form-control"
+                    placeholder="أدخل بريدك الإلكتروني"
+                    formControlName="email"
+                  >
+                  <div *ngIf="contactForm.get('email')?.touched && contactForm.get('email')?.invalid" class="text-danger mt-1">
+                    <small *ngIf="contactForm.get('email')?.errors?.['required']">البريد الإلكتروني مطلوب</small>
+                    <small *ngIf="contactForm.get('email')?.errors?.['email']">يرجى إدخال بريد إلكتروني صحيح</small>
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <label for="phone" class="form-label">رقم الهاتف</label>
+                  <input
+                    type="text"
+                    id="phone"
+                    class="form-control"
+                    placeholder="أدخل رقم هاتفك"
+                    formControlName="phone"
+                  >
+                  <div *ngIf="contactForm.get('phone')?.touched && contactForm.get('phone')?.invalid" class="text-danger mt-1">
+                    <small *ngIf="contactForm.get('phone')?.errors?.['pattern']">يرجى إدخال رقم هاتف صحيح</small>
+                  </div>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <label for="subject" class="form-label">الموضوع *</label>
+                  <input
+                    type="text"
+                    id="subject"
+                    class="form-control"
+                    placeholder="أدخل موضوع الرسالة"
+                    formControlName="subject"
+                  >
+                  <div *ngIf="contactForm.get('subject')?.touched && contactForm.get('subject')?.invalid" class="text-danger mt-1">
+                    <small *ngIf="contactForm.get('subject')?.errors?.['required']">الموضوع مطلوب</small>
+                  </div>
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label for="message" class="form-label">الرسالة *</label>
+                <textarea
+                  id="message"
+                  class="form-control"
+                  rows="5"
+                  placeholder="اكتب رسالتك هنا..."
+                  formControlName="message"
+                ></textarea>
+                <div *ngIf="contactForm.get('message')?.touched && contactForm.get('message')?.invalid" class="text-danger mt-1">
+                  <small *ngIf="contactForm.get('message')?.errors?.['required']">الرسالة مطلوبة</small>
+                  <small *ngIf="contactForm.get('message')?.errors?.['minlength']">يجب أن تتكون الرسالة من 20 حرف على الأقل</small>
+                </div>
+              </div>
+
+              <button type="submit" class="btn btn-primary btn-lg w-100" [disabled]="isSubmitting">
+                <span *ngIf="isSubmitting" class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+                إرسال الرسالة
+              </button>
+            </form>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="map-wrapper">
+            <h2 class="map-title">موقعنا</h2>
+            <div class="map-container">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.6219108573576!2d46.71146667536927!3d24.77196517811633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2sKing%20Abdullah%20Rd%2C%20Riyadh%20Saudi%20Arabia!5e0!3m2!1sen!2sus!4v1679144800891!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Social Media Section -->
+  <section class="social-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="social-title">تواصل معنا عبر وسائل التواصل الاجتماعي</h2>
+          <div class="social-icons">
+            <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" class="social-icon"><i class="fab fa-youtube"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="faq-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="faq-title">الأسئلة الشائعة</h2>
+          <p class="faq-subtitle">إليك بعض الأسئلة الشائعة التي قد تساعدك</p>
+        </div>
+      </div>
+
+      <div class="row mt-4">
+        <div class="col-lg-6">
+          <div class="accordion" id="contactFaqAccordion1">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqItem1">
+                  كيف يمكنني التسجيل في سوق الحلال؟
+                </button>
+              </h2>
+              <div id="faqItem1" class="accordion-collapse collapse show" data-bs-parent="#contactFaqAccordion1">
+                <div class="accordion-body">
+                  يمكنك التسجيل في سوق الحلال بسهولة من خلال النقر على زر "التسجيل" في أعلى الصفحة، ثم اتباع الخطوات البسيطة لإنشاء حساب جديد.
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqItem2">
+                  كيف يمكنني بيع منتج على المنصة؟
+                </button>
+              </h2>
+              <div id="faqItem2" class="accordion-collapse collapse" data-bs-parent="#contactFaqAccordion1">
+                <div class="accordion-body">
+                  بعد التسجيل وتسجيل الدخول، يمكنك النقر على زر "إضافة إعلان" في الصفحة الرئيسية، ثم اتباع الخطوات لإضافة تفاصيل المنتج وصوره وسعره.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-6">
+          <div class="accordion" id="contactFaqAccordion2">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqItem3">
+                  ما هي طرق الدفع المتاحة؟
+                </button>
+              </h2>
+              <div id="faqItem3" class="accordion-collapse collapse show" data-bs-parent="#contactFaqAccordion2">
+                <div class="accordion-body">
+                  نوفر مجموعة متنوعة من طرق الدفع بما في ذلك بطاقات الائتمان، المحافظ الإلكترونية، التحويل البنكي، بالإضافة إلى خيار الدفع عند الاستلام.
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqItem4">
+                  كيف يمكنني المشاركة في المزادات؟
+                </button>
+              </h2>
+              <div id="faqItem4" class="accordion-collapse collapse" data-bs-parent="#contactFaqAccordion2">
+                <div class="accordion-body">
+                  للمشاركة في المزادات، يجب أن تكون مسجلاً في المنصة أولاً، ثم يمكنك الانتقال إلى قسم المزادات وتصفح المزادات النشطة والمشاركة بتقديم عروضك.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-4">
+        <div class="col-12 text-center">
+          <a routerLink="/faq" class="btn btn-outline-primary">عرض المزيد من الأسئلة الشائعة</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
