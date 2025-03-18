@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DayThree.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01cf364a44c9796ead89a9e17cc7fece691d3934")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0dc00b32f9bbce94f80a50060862848aabd7a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("DayThree.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DayThree.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

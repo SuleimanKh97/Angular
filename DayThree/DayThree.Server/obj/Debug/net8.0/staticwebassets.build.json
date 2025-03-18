@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "2P2Z2l2oQii/rg+v3aSL2c/SPPVxBQXqEf4MXwd2+Go=",
+  "Hash": "WXOSjBgC+A2eRzZNhpL79ua7kw/zQHG5cHamFZC53w0=",
   "Source": "DayThree.Server",
   "BasePath": "_content/DayThree.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\ENG.K\\source\\repos\\DayThree\\daythree.client\\daythree.client.esproj",
+      "Identity": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\daythree.client.esproj",
       "Version": 2,
       "Source": "daythree.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

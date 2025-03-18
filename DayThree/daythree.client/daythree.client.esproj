@@ -8,6 +8,8 @@
     <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\daythree.client\browser\</BuildOutputFolder>
   </PropertyGroup>
   <ItemGroup>
+    <Folder Include="src\app\Admin\" />
+    <Folder Include="src\app\NewFolder\NewFolder\" />
     <Folder Include="src\app\Service\" />
   </ItemGroup>
 </Project>

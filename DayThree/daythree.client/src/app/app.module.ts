@@ -10,6 +10,13 @@ import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { SignupComponent } from './signup/signup.component';
+import { ProductComponent } from './Admin/product/product.component';
+import { CategoryComponent } from './Admin/category/category.component';
+import { DashboardComponent } from './Admin/dashboard/dashboard.component';
+import { AddproductComponent } from './Admin/addproduct/addproduct.component';
+import { AddcategoryComponent } from './Admin/addcategory/addcategory.component';
+
+
 
 @NgModule({
   declarations: [
@@ -18,7 +25,13 @@ import { SignupComponent } from './signup/signup.component';
     FooterComponent,
     HomeComponent,
     LoginComponent,
-    SignupComponent
+    SignupComponent,
+    ProductComponent,
+    CategoryComponent,
+    DashboardComponent,
+    AddproductComponent,
+    AddcategoryComponent
+    
   ],
   imports: [
     BrowserModule, HttpClientModule,
