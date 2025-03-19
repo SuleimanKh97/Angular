@@ -8,6 +8,8 @@ import { ProductComponent } from './Admin/product/product.component';
 import { CategoryComponent } from './Admin/category/category.component';
 import { AddproductComponent } from './Admin/addproduct/addproduct.component';
 import { AddcategoryComponent } from './Admin/addcategory/addcategory.component';
+import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
+import { EditproductComponent } from './Admin/editproduct/editproduct.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -20,7 +22,12 @@ const routes: Routes = [
       { path: 'getcategory', component: CategoryComponent },
 
       { path: 'addcategory', component: AddcategoryComponent },
-      { path: 'addproduct', component: AddproductComponent }
+      { path: 'addproduct', component: AddproductComponent },
+
+      { path: 'editcategory/:id', component: EditcategoryComponent },
+      { path: 'editproduct/:id', component: EditproductComponent }
+
+
 
 
 
