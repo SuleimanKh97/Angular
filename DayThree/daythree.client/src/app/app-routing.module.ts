@@ -10,11 +10,18 @@ import { AddproductComponent } from './Admin/addproduct/addproduct.component';
 import { AddcategoryComponent } from './Admin/addcategory/addcategory.component';
 import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
 import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+import { ProfileComponent } from './User/profile/profile.component';
+import { EditprofileComponent } from './User/editprofile/editprofile.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'login', component: LoginComponent },
   { path: 'signup', component: SignupComponent },
+  {
+    path: 'profile', component: ProfileComponent, children: [
+      { path: 'editprofile', component: EditprofileComponent }
+  ] },
+
   {
     path: 'dashboard', component: DashboardComponent, children: [
 

@@ -17,6 +17,8 @@ import { AddproductComponent } from './Admin/addproduct/addproduct.component';
 import { AddcategoryComponent } from './Admin/addcategory/addcategory.component';
 import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
 import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+import { ProfileComponent } from './User/profile/profile.component';
+import { EditprofileComponent } from './User/editprofile/editprofile.component';
 
 
 
@@ -34,7 +36,9 @@ import { EditproductComponent } from './Admin/editproduct/editproduct.component'
     AddproductComponent,
     AddcategoryComponent,
     EditcategoryComponent,
-    EditproductComponent
+    EditproductComponent,
+    ProfileComponent,
+    EditprofileComponent
     
   ],
   imports: [
