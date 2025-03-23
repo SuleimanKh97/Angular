@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "A8DlZ9XhrCSl75se9o5kPDl6XzzQWTvAIJEplzV6EBU=",
+  "Hash": "wjmzga/+ucS+uuKd8D5BqDBUzzxwV46Xv/KkMegzWcY=",
   "Source": "BehaviorSubject.Server",
   "BasePath": "_content/BehaviorSubject.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\behaviorsubject.client.esproj",
+      "Identity": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\behaviorsubject.client.esproj",
       "Version": 2,
       "Source": "behaviorsubject.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

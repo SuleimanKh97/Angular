@@ -1,65 +1,125 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\",
+  "WorkspaceRootPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\delete-voucher\\delete-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\delete-voucher\\delete-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-list\\product-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\delete-voucher\\delete-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\delete-voucher\\delete-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\read-voucher\\read-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\read-voucher\\read-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\read-voucher\\read-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\read-voucher\\read-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\services\\voucher.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\services\\voucher.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\update-voucher\\update-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\update-voucher\\update-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\update-voucher\\update-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\update-voucher\\update-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\create-voucher\\create-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\create-voucher\\create-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\create-voucher\\create-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\create-voucher\\create-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\voucher-details\\voucher-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\voucher-details\\voucher-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\admin\\voucher-details\\voucher-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\admin\\voucher-details\\voucher-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-list\\product-list.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\timer\\timer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\timer\\timer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\orange\\desktop\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\behaviorsubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0021D35-E96C-424D-AB82-F5A7425350FD}|behaviorsubject.client\\behaviorsubject.client.esproj|solutionrelative:behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -70,28 +130,223 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "delete-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:13:47.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "delete-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.ts",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.ts",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\delete-voucher\\delete-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:07:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "update-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:48:48.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "update-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\update-voucher\\update-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:48:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "voucher-details.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:45:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "voucher-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.ts",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.ts",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\voucher-details\\voucher-details.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:40:41.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "create-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T20:35:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "create-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\create-voucher\\create-voucher.component.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T20:30:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "read-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:59:32.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "read-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.ts",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.ts",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Admin\\read-voucher\\read-voucher.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T19:55:38.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:40:01.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:39:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "footer.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\footer\\footer.component.html",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\footer\\footer.component.html",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\footer\\footer.component.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:39:29.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\styles.css",
+              "RelativeToolTip": "behaviorsubject.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-23T19:38:59.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "voucher.service.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Services\\voucher.service.ts",
+              "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Services\\voucher.service.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Services\\voucher.service.ts",
+              "RelativeToolTip": "behaviorsubject.client\\src\\app\\Services\\voucher.service.ts",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T19:27:44.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.component.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-23T08:49:25.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "product-list.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\product-list\\product-list.component.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -100,11 +355,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 22,
               "Title": "product-list.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\product-list\\product-list.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-list\\product-list.component.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\product-list\\product-list.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -113,37 +368,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-23T08:24:47.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 23,
               "Title": "product-detail.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-23T07:59:51.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T07:59:51.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.module.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\app.module.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\app.module.ts",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -152,37 +406,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "product.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Services\\product.service.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Services\\product.service.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\Services\\product.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Services\\product.service.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\Services\\product.service.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\Services\\product.service.ts",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-23T08:10:08.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "special-offers.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-23T08:04:28.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T08:04:28.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "cart-item.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -191,81 +444,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\index.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\index.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-23T08:17:36.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "timer.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.ts",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\timer\\timer.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.ts",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\timer\\timer.component.ts",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-23T08:05:26.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T08:05:26.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "cart-item.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\cart-item\\cart-item.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-23T08:11:04.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T08:11:04.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "timer.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\timer\\timer.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\timer\\timer.component.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\timer\\timer.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-23T08:11:51.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T08:11:51.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "special-offers.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\special-offers\\special-offers.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-23T08:11:23.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T08:11:23.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "product-detail.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html",
               "RelativeDocumentMoniker": "behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html",
               "RelativeToolTip": "behaviorsubject.client\\src\\app\\product-detail\\product-detail.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-23T08:08:46.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T08:08:46.413Z"
             }
           ]
         }

@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:50606",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\DayThree.Server\\..\\daythree.client",
+"WorkingDirectory": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\DayThree.Server\\..\\daythree.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

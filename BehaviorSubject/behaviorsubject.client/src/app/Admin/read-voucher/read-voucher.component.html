@@ -1,1 +1,32 @@
-<p>read-voucher works!</p>
+
+<a routerLink="/addvoucher" class="btn btn-light">Add Voucher</a><br /><hr />
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Price</th>
+      <th scope="col">Quantity</th>
+      <th scope="col">Edit</th>
+      <th scope="col">Details</th>
+      <th scope="col">Delete</th>
+
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let i of voucherall">
+      <th scope="row">{{i.id}}</th>
+      <td>{{i.name}}</td>
+      <td>{{i.price}}</td>
+      <td>{{i.quantity}}</td>
+      <td><a routerLink="/editvoucher/{{i.id}}" class="btn btn-warning">Edit</a></td>
+      <td><a routerLink="/voucherdetails/{{i.id}}" class="btn btn-info">Details</a></td>
+      <td><a routerLink="/deletevoucher/{{i.id}}" class="btn btn-danger">Delete</a></td>
+
+
+
+
+    </tr>
+  </tbody>
+</table>

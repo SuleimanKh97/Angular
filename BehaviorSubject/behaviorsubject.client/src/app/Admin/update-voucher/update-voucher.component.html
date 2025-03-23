@@ -1,1 +1,28 @@
-<p>update-voucher works!</p>
+
+
+<form #editvoucher="ngForm" (ngSubmit)="editvouchers(editvoucher.value)">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Vocher Name</label>
+    <input name="name" [(ngModel)]="voucherdata.name" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">Add New Voucher</div>
+  </div>
+
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Price</label>
+    <input name="price" [(ngModel)]="voucherdata.price" type="number" class="form-control" id="exampleInputPassword1">
+  </div>
+
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Quantity</label>
+    <input name="quantity" [(ngModel)]="voucherdata.quantity" type="number" class="form-control" id="exampleInputPassword1">
+  </div>
+
+
+
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<br /><hr />
+<a routerLink="/allvoucher" class="btn btn-light">Back</a>

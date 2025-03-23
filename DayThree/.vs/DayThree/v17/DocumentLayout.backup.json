@@ -1,110 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\",
+  "WorkspaceRootPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\daythree\\daythree.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\daythree\\daythree.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\daythree\\daythree.client\\src\\app\\user\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\user\\profile\\profile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\addproduct\\addproduct.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\addproduct\\addproduct.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\daythree\\daythree.client\\src\\app\\user\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\user\\profile\\profile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\addproduct\\addproduct.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\addproduct\\addproduct.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\daythree\\daythree.client\\src\\app\\user\\editprofile\\editprofile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\user\\editprofile\\editprofile.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\daythree\\daythree.client\\src\\app\\user\\editprofile\\editprofile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\user\\editprofile\\editprofile.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\addcategory\\addcategory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\addcategory\\addcategory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\service\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\service\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\addcategory\\addcategory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\addcategory\\addcategory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\signup\\signup.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\signup\\signup.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\service\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\service\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\admin\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\admin\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|c:\\users\\orange\\desktop\\angular\\daythree\\daythree.client\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EBFC9462-455D-4171-4356-E1D103670DF1}|daythree.client\\daythree.client.esproj|solutionrelative:daythree.client\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,328 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "daythree.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "daythree.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T19:49:56.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "daythree.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "daythree.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T15:42:29.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "editprofile.component.ts",
               "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\editprofile\\editprofile.component.ts",
               "RelativeDocumentMoniker": "daythree.client\\src\\app\\User\\editprofile\\editprofile.component.ts",
               "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\editprofile\\editprofile.component.ts",
               "RelativeToolTip": "daythree.client\\src\\app\\User\\editprofile\\editprofile.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "DocumentIndex": 1,
-              "Title": "addproduct.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-22T14:30:37.31Z",
-              "EditorCaption": ""
-              "WhenOpened": "2025-03-18T22:10:35.797Z"
+              "WhenOpened": "2025-03-22T14:30:37.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "profile.component.html",
               "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\profile\\profile.component.html",
               "RelativeDocumentMoniker": "daythree.client\\src\\app\\User\\profile\\profile.component.html",
               "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\profile\\profile.component.html",
               "RelativeToolTip": "daythree.client\\src\\app\\User\\profile\\profile.component.html",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAACXAAAAAAAAAA==",
-              "Title": "addproduct.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\addproduct\\addproduct.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-22T14:13:26.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "addcategory.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T21:55:16.671Z"
+              "WhenOpened": "2025-03-22T14:13:26.225Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "addcategory.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\addcategory\\addcategory.component.ts",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T21:48:33.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "product.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\product\\product.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\product\\product.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\product\\product.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\product\\product.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T21:37:15.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "product.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\product\\product.component.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\product\\product.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\product\\product.component.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\product\\product.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T21:36:00.627Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "editprofile.component.html",
               "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\editprofile\\editprofile.component.html",
               "RelativeDocumentMoniker": "daythree.client\\src\\app\\User\\editprofile\\editprofile.component.html",
               "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\editprofile\\editprofile.component.html",
               "RelativeToolTip": "daythree.client\\src\\app\\User\\editprofile\\editprofile.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
-              "Title": "category.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\category\\category.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\category\\category.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\category\\category.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\category\\category.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-22T14:10:34.207Z",
-              "EditorCaption": ""
-              "WhenOpened": "2025-03-18T21:25:22.966Z"
+              "WhenOpened": "2025-03-22T14:10:34.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "profile.component.ts",
               "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\profile\\profile.component.ts",
               "RelativeDocumentMoniker": "daythree.client\\src\\app\\User\\profile\\profile.component.ts",
               "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\DayThree\\daythree.client\\src\\app\\User\\profile\\profile.component.ts",
               "RelativeToolTip": "daythree.client\\src\\app\\User\\profile\\profile.component.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
-              "DocumentIndex": 2,
-              "Title": "category.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\category\\category.component.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\category\\category.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\category\\category.component.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\category\\category.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T21:21:00.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "dashboard.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\Admin\\dashboard\\dashboard.component.html",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwCcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T20:21:03.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "product.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Service\\product.service.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Service\\product.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Service\\product.service.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\Service\\product.service.ts",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T19:58:03.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T20:17:08.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "login.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\login\\login.component.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\login\\login.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\login\\login.component.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\login\\login.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T16:58:13.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "signup.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\signup\\signup.component.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\signup\\signup.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\signup\\signup.component.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\signup\\signup.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T16:55:25.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "auth.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Service\\auth.service.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\Service\\auth.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\Service\\auth.service.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\Service\\auth.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-16T16:49:48.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "signup.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\signup\\signup.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\signup\\signup.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\signup\\signup.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\signup\\signup.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:42:59.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "login.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\login\\login.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\login\\login.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\login\\login.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\login\\login.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:41:31.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "daythree.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-22T14:04:56.495Z",
-              "EditorCaption": ""
-              "WhenOpened": "2025-03-16T16:34:57.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "home.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\home\\home.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\home\\home.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\home\\home.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\home\\home.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:34:37.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "footer.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\footer\\footer.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\footer\\footer.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\footer\\footer.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\footer\\footer.component.html",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:30:31.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:27:45.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "nav-bar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "RelativeToolTip": "daythree.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAACZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:27:23.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\index.html",
-              "RelativeDocumentMoniker": "daythree.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\index.html",
-              "RelativeToolTip": "daythree.client\\src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-16T16:20:50.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\styles.css",
-              "RelativeDocumentMoniker": "daythree.client\\src\\styles.css",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\src\\styles.css",
-              "RelativeToolTip": "daythree.client\\src\\styles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-16T16:19:30.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": ".postcssrc.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\.postcssrc.json",
-              "RelativeDocumentMoniker": "daythree.client\\.postcssrc.json",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\DayThree\\daythree.client\\.postcssrc.json",
-              "RelativeToolTip": "daythree.client\\.postcssrc.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T16:18:27.084Z"
+              "WhenOpened": "2025-03-22T14:04:56.495Z"
             }
           ]
         }

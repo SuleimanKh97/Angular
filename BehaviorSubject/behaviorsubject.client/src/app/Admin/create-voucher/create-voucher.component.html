@@ -1,1 +1,27 @@
-<p>create-voucher works!</p>
+
+
+<form #newvoucher="ngForm" (ngSubmit)="addvouchers(newvoucher.value)">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Vocher Name</label>
+    <input name="name" ngModel type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">Add New Voucher</div>
+  </div>
+
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Price</label>
+    <input name="price" ngModel type="number" class="form-control" id="exampleInputPassword1">
+  </div>
+
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Quantity</label>
+    <input name="quantity" ngModel type="number" class="form-control" id="exampleInputPassword1">
+  </div>
+
+
+
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<a routerLink="/allvoucher" class="btn btn-light">Back</a>

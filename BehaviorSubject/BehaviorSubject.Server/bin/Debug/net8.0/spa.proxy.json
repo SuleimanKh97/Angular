@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:62426",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\BehaviorSubject.Server\\..\\behaviorsubject.client",
+"WorkingDirectory": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\BehaviorSubject\\BehaviorSubject.Server\\..\\behaviorsubject.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
