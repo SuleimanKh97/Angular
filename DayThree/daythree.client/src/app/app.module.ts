@@ -15,6 +15,7 @@ import { CategoryComponent } from './Admin/category/category.component';
 import { DashboardComponent } from './Admin/dashboard/dashboard.component';
 import { AddproductComponent } from './Admin/addproduct/addproduct.component';
 import { AddcategoryComponent } from './Admin/addcategory/addcategory.component';
+import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
 
 
 
@@ -30,7 +31,8 @@ import { AddcategoryComponent } from './Admin/addcategory/addcategory.component'
     CategoryComponent,
     DashboardComponent,
     AddproductComponent,
-    AddcategoryComponent
+    AddcategoryComponent,
+    EditcategoryComponent
     
   ],
   imports: [

@@ -1,0 +1,12 @@
+<div *ngIf="products.length > 0; else loading">
+  <div *ngFor="let product of products" class="product-card">
+    <img [src]="product.image" [alt]="product.title" width="100">
+    <h3>{{ product.title }}</h3>
+    <p>السعر: ${{ product.price }}</p>
+    <a [routerLink]="['/product', product.id]">عرض التفاصيل</a>
+  </div>
+</div>
+
+<ng-template #loading>
+  <p>جاري تحميل المنتجات...</p>
+</ng-template>

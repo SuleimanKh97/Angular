@@ -1,2 +1,3 @@
 C:\Users\ENG.K\source\repos\DayThree\daythree.client\obj\Debug\daythree.client.esproj.CoreCompileInputs.cache
 C:\Users\ENG.K\Desktop\learning\Angular\DayThree\daythree.client\obj\Debug\daythree.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\DayThree\daythree.client\obj\Debug\daythree.client.esproj.CoreCompileInputs.cache

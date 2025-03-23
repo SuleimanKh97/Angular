@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\categiory\\categiory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\categiory\\categiory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\categiory\\categiory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\categiory\\categiory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\services\\product.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\categiory\\categiory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\categiory\\categiory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\categiory\\categiory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\categiory\\categiory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\app\\newsletter\\newsletter.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\app\\newsletter\\newsletter.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\app\\newsletter\\newsletter.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\.postcssrc.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\eng.k\\desktop\\learning\\angular\\day2task\\day2task.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|c:\\users\\orange\\desktop\\angular\\day2task\\day2task.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{409EC80E-A554-4E6B-0524-EDD0DA0F689B}|day2task.client\\day2task.client.esproj|solutionrelative:day2task.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -78,77 +78,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "product-details.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.html",
-              "RelativeDocumentMoniker": "day2task.client\\src\\app\\product-details\\product-details.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.html",
-              "RelativeToolTip": "day2task.client\\src\\app\\product-details\\product-details.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T22:11:02.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "product-details.component.ts",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.ts",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\product-details\\product-details.component.ts",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.ts",
               "RelativeToolTip": "day2task.client\\src\\app\\product-details\\product-details.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-13T22:00:08.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "products.component.ts",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.ts",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\products\\products.component.ts",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.ts",
               "RelativeToolTip": "day2task.client\\src\\app\\products\\products.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T21:15:08.528Z"
+              "WhenOpened": "2025-03-13T21:15:08.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "products.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.html",
-              "RelativeDocumentMoniker": "day2task.client\\src\\app\\products\\products.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.html",
-              "RelativeToolTip": "day2task.client\\src\\app\\products\\products.component.html",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAC4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T20:52:19.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "categiory.component.ts",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.ts",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\categiory\\categiory.component.ts",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.ts",
               "RelativeToolTip": "day2task.client\\src\\app\\categiory\\categiory.component.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T20:15:34.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T20:15:34.207Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "product.service.ts",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\services\\product.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\services\\product.service.ts",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\services\\product.service.ts",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\services\\product.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\services\\product.service.ts",
               "RelativeToolTip": "day2task.client\\src\\app\\services\\product.service.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -157,11 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "categiory.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\categiory\\categiory.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\categiory\\categiory.component.html",
               "RelativeToolTip": "day2task.client\\src\\app\\categiory\\categiory.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -170,11 +146,48 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "day2task.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "day2task.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T16:54:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "products.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.html",
+              "RelativeDocumentMoniker": "day2task.client\\src\\app\\products\\products.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\products\\products.component.html",
+              "RelativeToolTip": "day2task.client\\src\\app\\products\\products.component.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAC4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T20:52:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "product-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.html",
+              "RelativeDocumentMoniker": "day2task.client\\src\\app\\product-details\\product-details.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\product-details\\product-details.component.html",
+              "RelativeToolTip": "day2task.client\\src\\app\\product-details\\product-details.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T22:11:02.298Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "newsletter.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\newsletter\\newsletter.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\newsletter\\newsletter.component.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\newsletter\\newsletter.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\newsletter\\newsletter.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\newsletter\\newsletter.component.html",
               "RelativeToolTip": "day2task.client\\src\\app\\newsletter\\newsletter.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -182,23 +195,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "day2task.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "day2task.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:54:55.778Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "login.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\login\\login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\login\\login.component.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\login\\login.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\login\\login.component.html",
               "RelativeToolTip": "day2task.client\\src\\app\\login\\login.component.html",
               "ViewState": "AgIAAAQAAAAAAAAAAAAcwBwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -208,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "footer.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\footer\\footer.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\footer\\footer.component.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\footer\\footer.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\footer\\footer.component.html",
               "RelativeToolTip": "day2task.client\\src\\app\\footer\\footer.component.html",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -218,11 +219,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "nav-bar.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\nav-bar\\nav-bar.component.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\nav-bar\\nav-bar.component.html",
               "RelativeToolTip": "day2task.client\\src\\app\\nav-bar\\nav-bar.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -232,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\styles.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\styles.css",
               "RelativeDocumentMoniker": "day2task.client\\src\\styles.css",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\styles.css",
               "RelativeToolTip": "day2task.client\\src\\styles.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -244,9 +245,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": ".postcssrc.json",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\.postcssrc.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\.postcssrc.json",
               "RelativeDocumentMoniker": "day2task.client\\.postcssrc.json",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\.postcssrc.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\.postcssrc.json",
               "RelativeToolTip": "day2task.client\\.postcssrc.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -256,9 +257,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\index.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\index.html",
               "RelativeToolTip": "day2task.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -268,9 +269,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.ts",
               "RelativeToolTip": "day2task.client\\src\\app\\app.component.ts",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -278,16 +279,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "day2task.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\ENG.K\\Desktop\\learning\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Day2Task\\day2task.client\\src\\app\\app.component.html",
               "RelativeToolTip": "day2task.client\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T16:28:37.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:28:37.474Z"
             }
           ]
         }

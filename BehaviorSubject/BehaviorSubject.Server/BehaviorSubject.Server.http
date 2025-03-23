@@ -1,0 +1,6 @@
+@BehaviorSubject.Server_HostAddress = http://localhost:5019
+
+GET {{BehaviorSubject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

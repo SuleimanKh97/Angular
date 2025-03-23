@@ -1,0 +1,7 @@
+<div *ngIf="product">
+  <h2>{{ product.name }}</h2>
+  <img [src]="product.imageUrl" alt="{{ product.name }}" width="300">
+  <p>السعر: ${{ product.price }}</p>
+  <p>{{ product.description }}</p>
+  <button (click)="addToCart()">أضف إلى السلة</button>
+</div>

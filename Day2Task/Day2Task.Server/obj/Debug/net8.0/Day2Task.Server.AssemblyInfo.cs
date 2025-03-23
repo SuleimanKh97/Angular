@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day2Task.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01cf364a44c9796ead89a9e17cc7fece691d3934")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a268938ffefdc975f9464b9a4d1d308e1b2db897")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day2Task.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day2Task.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

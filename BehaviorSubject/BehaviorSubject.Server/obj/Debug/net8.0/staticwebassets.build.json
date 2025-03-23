@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "A8DlZ9XhrCSl75se9o5kPDl6XzzQWTvAIJEplzV6EBU=",
+  "Source": "BehaviorSubject.Server",
+  "BasePath": "_content/BehaviorSubject.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular\\BehaviorSubject\\behaviorsubject.client\\behaviorsubject.client.esproj",
+      "Version": 2,
+      "Source": "behaviorsubject.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

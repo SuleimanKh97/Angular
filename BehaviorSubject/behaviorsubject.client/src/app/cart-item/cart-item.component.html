@@ -1,0 +1,4 @@
+<div class="cart-item">
+  <p>{{ product.name }} - {{ quantity }} × ${{ product.price }} = ${{ totalPrice }}</p>
+  <input type="number" [(ngModel)]="quantity" (change)="updateQuantity()">
+</div>
