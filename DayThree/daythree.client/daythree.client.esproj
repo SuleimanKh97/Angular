@@ -9,6 +9,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="src\app\Admin\" />
+    <Folder Include="src\app\User\" />
     <Folder Include="src\app\NewFolder\NewFolder\" />
     <Folder Include="src\app\Service\" />
   </ItemGroup>

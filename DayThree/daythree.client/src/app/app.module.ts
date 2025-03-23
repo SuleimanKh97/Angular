@@ -16,6 +16,10 @@ import { DashboardComponent } from './Admin/dashboard/dashboard.component';
 import { AddproductComponent } from './Admin/addproduct/addproduct.component';
 import { AddcategoryComponent } from './Admin/addcategory/addcategory.component';
 import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
+import { EditcategoryComponent } from './Admin/editcategory/editcategory.component';
+import { EditproductComponent } from './Admin/editproduct/editproduct.component';
+import { ProfileComponent } from './User/profile/profile.component';
+import { EditprofileComponent } from './User/editprofile/editprofile.component';
 
 
 
@@ -32,7 +36,10 @@ import { EditcategoryComponent } from './Admin/editcategory/editcategory.compone
     DashboardComponent,
     AddproductComponent,
     AddcategoryComponent,
-    EditcategoryComponent
+    EditcategoryComponent,
+    EditproductComponent,
+    ProfileComponent,
+    EditprofileComponent
     
   ],
   imports: [
